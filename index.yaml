@@ -21,6 +21,6 @@ entries:
     sources:
     - https://github.com/techno-link/mender-helm
     urls:
-    - https://github.com/techno-link/mender-3.5.0.tgz
+    - https://veselinuzunov.github.io/charts/mender-3.5.0.tgz
     version: 3.5.0
 generated: "2022-10-03T16:14:25.0048+03:00"
