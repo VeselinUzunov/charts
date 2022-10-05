@@ -3,10 +3,10 @@ entries:
   mender:
   - apiVersion: v1
     appVersion: 3.4.0
-    created: "2022-10-04T11:18:42.743622+03:00"
+    created: "2022-10-05T11:19:04.4582+03:00"
     description: Mender is a robust and secure way to update all your software and
       deploy your IoT devices at scale with support for customization
-    digest: d502ca045fbdf96ff1e3b32f79f25a96db448e0cdcdbe5425c05b9ded3a1e430
+    digest: 8860488a3ca2a6bdcb8f0e0b52bef49094dcc5fc85c9f5488df313f8d175a3d4
     home: https://mender.io
     icon: https://github.com/mendersoftware/mender/raw/master/mender_logo.png
     keywords:
@@ -23,4 +23,4 @@ entries:
     urls:
     - https://veselinuzunov.github.io/charts/mender-3.5.0.tgz
     version: 3.5.0
-generated: "2022-10-04T11:18:42.740444+03:00"
+generated: "2022-10-05T11:19:04.456552+03:00"
